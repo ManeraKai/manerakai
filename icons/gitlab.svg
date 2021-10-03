@@ -5,12 +5,12 @@
    version="1.1"
    x="0px"
    y="0px"
-   viewBox="0 0 84.263996 31"
+   viewBox="0 0 85.263996 32"
    xml:space="preserve"
    id="svg50"
    sodipodi:docname="gitlab.svg"
-   width="84.264"
-   height="31"
+   width="85.264"
+   height="32"
    inkscape:version="1.1.1 (1:1.1+202109281949+c3084ef5ed)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -27,8 +27,8 @@
    inkscape:pagecheckerboard="1"
    showgrid="false"
    inkscape:zoom="5.6211079"
-   inkscape:cx="18.234839"
-   inkscape:cy="15.566326"
+   inkscape:cx="8.6281923"
+   inkscape:cy="16.100029"
    inkscape:window-width="1888"
    inkscape:window-height="1060"
    inkscape:window-x="32"
@@ -69,16 +69,16 @@
 	.st27{fill:none;stroke:#444444;stroke-width:1.5339;stroke-miterlimit:10;}
 </style>
 <rect
-   style="fill:#ffffff;stroke:#404040;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+   style="fill:#ffffff;stroke:#404040;stroke-width:2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
    id="rect878"
    width="83.264"
    height="30"
-   x="0.5"
-   y="0.5"
+   x="1"
+   y="1"
    rx="3"
    ry="3" /><g
    id="logo_art"
-   transform="matrix(0.07080187,0,0,0.07080187,-2.3769616,-4.2875513)">
+   transform="matrix(0.07080187,0,0,0.07080187,-1.8769616,-3.7875513)">
 	<g
    id="g28">
 		<g
@@ -152,11 +152,11 @@
    d="m 442.097,243.57 h -87.12 l 37.425,-115.224 c 1.919,-5.895 10.282,-5.895 12.27,0 z" />
 			<polygon
    class="st5"
-   points="442.097,243.57 292.778,434.892 354.977,243.57 "
+   points="354.977,243.57 442.097,243.57 292.778,434.892 "
    id="polygon22" />
 			<polygon
    class="st5"
-   points="230.669,243.57 292.778,434.892 143.549,243.57 "
+   points="143.549,243.57 230.669,243.57 292.778,434.892 "
    id="polygon24" />
 		</g>
 	</g>
@@ -164,7 +164,7 @@
 <g
    id="spacing_guides"
    class="st14"
-   transform="translate(8.4644656,0.5)">
+   transform="translate(8.9644656,1)">
 	<path
    id="path40_32_"
    sketch:type="MSShapeGroup"
