@@ -5,8 +5,6 @@
 [![TurboSquid](./icons/turbosquid.svg)](https://www.turbosquid.com/Search/Artists/ManeraKai)&nbsp;&nbsp;
 [![Free3d](./icons/free3d.svg)](https://free3d.com/user/ajaebalbarmaja)
 
-📬 Contact: manerakai@protonmail.com
-
-👨‍🔧 Hire: [Freelancer](https://www.freelancer.com/u/ManeraKai)
-
-💲 Donate: [Paypal](https://www.paypal.com/paypalme/esmailalmaleeh)
+📬 Contact: manerakai@protonmail.com<br>
+👨‍🔧 Hire: [Freelancer](https://www.freelancer.com/u/ManeraKai)<br>
+💲 Donate: [Paypal](https://www.paypal.com/paypalme/esmailalmaleeh)<br>
