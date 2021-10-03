@@ -1,4 +1,3 @@
-# Hello Weird World!!
 [![Crowdin](./icons/crowdin.svg)](https://crowdin.com/profile/manerakai/)&nbsp;&nbsp;
 [![Wordpress](./icons/wordpress.svg)](https://profiles.wordpress.org/manerakai/)&nbsp;&nbsp;
 [![GitLab](./icons/gitlab.svg)](https://gitlab.com/ManeraKai)&nbsp;&nbsp;
