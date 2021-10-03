@@ -9,4 +9,4 @@
 
 👨‍🔧 Hire: [Freelancer](https://www.freelancer.com/u/ManeraKai)
 
-💲 Donate: [Paypal](https://www.paypal.com/paypalme/esmailalmaleeh), [Liberapay](https://liberapay.com/ManeraKai/)
+💲 Donate: [Paypal](https://www.paypal.com/paypalme/esmailalmaleeh)
