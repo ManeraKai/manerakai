@@ -13,9 +13,9 @@
 <!-- ## Repos
 [![GitHub](./icons/github.svg)](https://github.com/ManeraKai)&nbsp;&nbsp;
 [![GitLab](./icons/gitlab.svg)](https://gitlab.com/ManeraKai) -->
-
+<!-- 
 ## Hire
-[![Freelancer](./icons/freelancer.svg)](https://www.freelancer.com/u/ManeraKai)
+[![Freelancer](./icons/freelancer.svg)](https://www.freelancer.com/u/ManeraKai) -->
 
 ## Donate
 [![Paypal](./icons/paypal.svg)](https://www.paypal.com/paypalme/esmailalmaleeh)
