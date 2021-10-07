@@ -19,5 +19,3 @@
 
 ## Donate
 [![Paypal](./icons/paypal.svg)](https://www.paypal.com/paypalme/esmailalmaleeh)
-
-📬 Contact: manerakai@protonmail.com
