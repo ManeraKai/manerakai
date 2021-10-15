@@ -18,4 +18,5 @@
 [![Freelancer](./icons/freelancer.svg)](https://www.freelancer.com/u/ManeraKai) -->
 
 ## Donate
-[![Paypal](./icons/paypal.svg)](https://www.paypal.com/paypalme/esmailalmaleeh)
+[![Paypal](./icons/paypal.svg)](https://www.paypal.com/paypalme/esmailalmaleeh)&nbsp;&nbsp;
+<noscript><a href="https://liberapay.com/ManeraKai/donate"><img height=32 alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
