@@ -1,7 +1,8 @@
 ## Translations
 [![Crowdin](./icons/crowdin.svg)](https://crowdin.com/profile/manerakai/)&nbsp;&nbsp;
 [![Weblate](./icons/weblate.svg)](https://hosted.weblate.org/user/ManeraKai/)&nbsp;&nbsp;
-[![Wordpress](./icons/wordpress.svg)](https://profiles.wordpress.org/manerakai/)
+[![Wordpress](./icons/wordpress.svg)](https://profiles.wordpress.org/manerakai/)&nbsp;&nbsp;
+
 
 ## 3D Modeling
 [![TurboSquid](./icons/turbosquid.svg)](https://www.turbosquid.com/Search/Artists/ManeraKai)&nbsp;&nbsp;
@@ -19,3 +20,6 @@
 
 ## Donate
 [![Paypal](./icons/paypal.svg)](https://www.paypal.com/paypalme/esmailalmaleeh)
+[![Paypal](./icons/paypal.svg)](https://ko-fi.com/manerakai)
+
+
