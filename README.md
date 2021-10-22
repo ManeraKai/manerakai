@@ -11,9 +11,12 @@
 ## Simulators
 [![ItchIo](./icons/itchio.svg)](https://manerakai.itch.io/)&nbsp;&nbsp;
 
-<!-- ## Repos
+## Repos
 [![GitHub](./icons/github.svg)](https://github.com/ManeraKai)&nbsp;&nbsp;
-[![GitLab](./icons/gitlab.svg)](https://gitlab.com/ManeraKai) -->
+[![GitLab](./icons/gitlab.svg)](https://gitlab.com/ManeraKai)&nbsp;&nbsp;
+[![Codeberg](./icons/codeberg.svg)](https://codeberg.org/ManeraKai)
+
+
 <!-- 
 ## Hire
 [![Freelancer](./icons/freelancer.svg)](https://www.freelancer.com/u/ManeraKai) -->
