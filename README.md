@@ -17,3 +17,5 @@
 [![Paypal](./icons/paypal.svg)](https://www.paypal.com/paypalme/esmailalmaleeh)&nbsp;&nbsp;
 [![Paypal](./icons/ko-fi.svg)](https://ko-fi.com/manerakai)&nbsp;&nbsp;
 [![Liberapay](./icons/liberapay.svg)](https://liberapay.com/ManeraKai/donate)&nbsp;&nbsp;
+
+PGP: [5abc31ffd562e337](http://keyserver.ubuntu.com/pks/lookup?op=get&search=0x5abc31ffd562e337)
