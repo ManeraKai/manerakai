@@ -15,5 +15,6 @@
 
 ### Donate
 [![Paypal](./icons/paypal.svg)](https://www.paypal.com/paypalme/esmailalmaleeh)&nbsp;&nbsp;
+[![BuyMeACoffee](./icons/bmc.svg)](https://www.buymeacoffee.com/ManeraKai)&nbsp;&nbsp;
 [![Paypal](./icons/ko-fi.svg)](https://ko-fi.com/manerakai)&nbsp;&nbsp;
 [![Liberapay](./icons/liberapay.svg)](https://liberapay.com/ManeraKai/donate)&nbsp;&nbsp;
