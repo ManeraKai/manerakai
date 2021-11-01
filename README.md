@@ -19,4 +19,4 @@
 [![Paypal](./icons/ko-fi.svg)](https://ko-fi.com/manerakai)&nbsp;&nbsp;
 [![Liberapay](./icons/liberapay.svg)](https://liberapay.com/ManeraKai/donate)&nbsp;&nbsp;
 
-PGP: [5abc31ffd562e337](http://keyserver.ubuntu.com/pks/lookup?op=get&search=0x5abc31ffd562e337)
+PGP: [F8317186660A17B0D489927B5ABC31FFD562E337](https://almaleehserver.asuscomm.com/gpg.html)
