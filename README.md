@@ -23,6 +23,3 @@
 
 Website: [manerakai.com](https://manerakai.com)\
 PGP: [F8317186660A17B0D489927B5ABC31FFD562E337](https://almaleehserver.asuscomm.com/gpg.html)
-
-
-<!-- This is a test -->
