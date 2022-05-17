@@ -18,8 +18,11 @@
 ### Donate
 [![BuyMeACoffee](./icons/bmc.svg)](https://www.buymeacoffee.com/ManeraKai)&nbsp;&nbsp;
 [![Liberapay](./icons/liberapay.svg)](https://liberapay.com/ManeraKai/donate)&nbsp;&nbsp;
-<!-- [![Paypal](./icons/paypal.svg)](https://www.paypal.com/paypalme/esmailalmaleeh)&nbsp;&nbsp; -->
-<!-- [![Paypal](./icons/ko-fi.svg)](https://ko-fi.com/manerakai)&nbsp;&nbsp; -->
 
-Website: [manerakai.com](https://manerakai.com)\
-PGP: [F8317186660A17B0D489927B5ABC31FFD562E337](https://manerakai.com/gpg.html)
+BTC: bc1qj20wets9lpfy5502zdh05mupy0rwgqyyn0rhhn
+
+BCH: qqz5vfnrngk0tjy73q2688qzw4wnllnuzqfndflhl8
+
+ETH: 0x896E5796Da76E49A400A9186E1c459CD2C64b4E8
+
+XMR: 4AM5CVfaGsnEXQQjZSzJvaWufe7pT86ubcZPr83fCjb2Hn3iwcForTWFy2Z3ugXcufUwHaGcucfPMFgPXBFSYGFvNrmV5XR
